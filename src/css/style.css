@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: cadetblue;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  color: white;
+}
